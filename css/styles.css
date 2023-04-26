@@ -229,6 +229,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
+    background-image: url(../img/documental1.png);
+    background-size: cover;
 }
 .r1c2{
     height: 85%;
@@ -238,6 +240,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
+    background-image: url(../img/documental2.png);
+    background-size: cover;
     
 }
 .r1c3{
@@ -248,7 +252,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
-    
+    background-image: url(../img/documental3.png);
+    background-size: cover;
 }
 .r1c4{
     height: 85%;
@@ -258,7 +263,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
-    
+    background-image: url(../img/documental4.png);
+    background-size: cover;
 }
 .r1c5{
     height: 85%;
@@ -268,7 +274,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
-    
+    background-image: url(../img/documental5.png);
+    background-size: cover;
 }
 
 .volverAVer{
@@ -298,6 +305,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
+    background-image: url(../img/ver1.png);
+    background-size: cover;
 }
 .r2c2{
     height: 85%;
@@ -307,6 +316,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
+    background-image: url(../img/ver2.png);
+    background-size: cover;
 }
 .r2c3{
     height: 85%;
@@ -316,6 +327,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
+    background-image: url(../img/ver3.png);
+    background-size: cover;
 }
 .r2c4{
     height: 85%;
@@ -325,6 +338,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
+    background-image: url(../img/ver4.png);
+    background-size: cover;
 }
 .r2c5{
     height: 85%;
@@ -334,6 +349,8 @@ p{
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
     border-bottom-right-radius:0.3em ;
+    background-image: url(../img/ver5.png);
+    background-size: cover;
 }
 
 .seriesTVEEUU{
@@ -360,34 +377,50 @@ width: 2%;
     border-top-left-radius: 0.3em ;
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
-    border-bottom-right-radius:0.3em ;}
+    border-bottom-right-radius:0.3em ;
+    background-image: url(../img/EEUU1.png);
+    background-size: cover;
+}
 .r3c2{height: 85%;
     width: 18%;
     background-color: aqua;
     border-top-left-radius: 0.3em ;
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
-    border-bottom-right-radius:0.3em ;}
+    border-bottom-right-radius:0.3em ;
+    background-image: url(../img/EEUU2.png);
+    background-size: cover;
+}
 .r3c3{height: 85%;
     width: 18%;
     background-color: aqua;
     border-top-left-radius: 0.3em ;
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
-    border-bottom-right-radius:0.3em ;}
+    border-bottom-right-radius:0.3em ;
+    background-image: url(../img/EEUU3.png);
+    background-size: cover;
+}
 .r3c4{height: 85%;
     width: 18%;
     background-color: aqua;
     border-top-left-radius: 0.3em ;
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
-    border-bottom-right-radius:0.3em ;}
+    border-bottom-right-radius:0.3em ;
+
+    background-image: url(../img/EEUU4.png);
+    background-size: cover;}
 .r3c5{height: 85%;
     width: 18%;
     background-color: aqua;
     border-top-left-radius: 0.3em ;
     border-top-right-radius:0.3em ;
     border-bottom-left-radius:0.3em ;
-    border-bottom-right-radius:0.3em ;}
+    border-bottom-right-radius:0.3em ;
+
+    background-image: url(../img/EEUU5.png);
+    background-size: cover;
+}
 
 
